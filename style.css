@@ -1,1 +1,10 @@
+body{
+font-family: Arial;
+margin: 40px;
+}
 
+.question{
+border:1px solid #ddd;
+padding:10px;
+margin:10px;
+}
